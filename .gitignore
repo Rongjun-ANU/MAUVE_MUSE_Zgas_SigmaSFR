@@ -1,0 +1,24 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Large generated MAUVE/nGIST products. Keep the small bundled support FITS
+# table (`mauve_master_wiki.fits`) and the compact `MILES_safe/` templates.
+SNR200/*.fits
+SNR200/*.fits.gz
+*_CONTcube.fits
+*_DATACUBE*.fits
+*_gas_BIN_maps*.fits
+*_gas_bin_maps*.fits
+*_SPATIAL_BINNING_maps*.fits
+*_spatial_binning_maps*.fits
+*_SFH_maps*.fits
+*_sfh_maps.fits
+*_sfh_weights.fits
+*_sfh-weights.fits
+*_KIN_maps*.fits
+*_proxy_EW_maps.fits
+*_pseudo_EW_maps.fits
