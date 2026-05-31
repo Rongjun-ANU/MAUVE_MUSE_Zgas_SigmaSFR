@@ -1,0 +1,8 @@
+numpy
+scipy
+astropy
+matplotlib
+speclite
+ppxf
+jupyter
+ipykernel
