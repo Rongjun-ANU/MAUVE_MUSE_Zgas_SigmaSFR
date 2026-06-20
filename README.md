@@ -9,7 +9,7 @@ products associated with:
 This repository is the public code-release location cited in the paper:
 
 ```text
-https://github.com/Rongjun-ANU/MAUVE_MUSE_Zgas_SigmaSFR
+https://ui.adsabs.harvard.edu/abs/2026MNRAS.549g1019H/abstract
 ```
 
 The scripts and notebooks were copied from the local working tree
